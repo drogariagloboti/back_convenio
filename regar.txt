@@ -1,0 +1,1 @@
+[] - API deve consultar o cadastro do cliente primeiro no postgres pelo ID, e caso não tenha resultado deve buscar no 10.10.0.5
